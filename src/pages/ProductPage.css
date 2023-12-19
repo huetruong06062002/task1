@@ -1,0 +1,13 @@
+.loading {
+    margin: 20px 0;
+    margin-bottom: 20px;
+    padding: 30px 50px;
+    text-align: center;
+
+}
+
+
+.ant-spin-container {
+min-width: 1200px;
+padding: 10px;
+}
